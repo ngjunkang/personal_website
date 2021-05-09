@@ -1,0 +1,8 @@
+{
+    "routes": {
+        "about": "/about",
+        "resume": "/resume",
+        "thoughts": "/thoughts",
+        "contact": "/contact"
+    }
+}
